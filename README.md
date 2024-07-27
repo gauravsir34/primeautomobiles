@@ -1,2 +1,1 @@
-# 2312LibraryMS
- Library Management System
+Service Store Management 
